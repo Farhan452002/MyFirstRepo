@@ -1,0 +1,19 @@
+Zakat Calculation 2023 - 2024
+
+Standard: Silver ($571.01)
+
+Start Date Gregorian: 09/15/2023 - September 15th 2023
+Start Date Hijri:     02/29/1445 - Safar 29th 1445
+
+Starting Balance: $602.96
+
+Ending Date Gregorian: 09/04/2024 - September 4th 2024
+Ending Date Hijri:     02/29/1446 - Safar 29th 1446
+
+Ending Balance:   $000.00
+
+
+Zakat Formula: { [ Ending Balance + $20 (Estimated Cash in Wallet) ] * 0.025 (2.5%) } + $0.01 (Just To Be Safe)
+				
+
+			*** Zakat Due: $00.00 ***
